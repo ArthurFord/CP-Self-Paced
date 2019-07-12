@@ -5,4 +5,4 @@ Day 4
 
 Challenges
 -----------
-* [News Site V](https://github.com/indiaplatoon/news-site-V)
+* [News Site V](https://github.com/codeplatoon/news-site-V)

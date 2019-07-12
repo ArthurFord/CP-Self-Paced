@@ -100,4 +100,4 @@ Today, as you start to wire up the `ArticlesAPI` JS module and connect to the AP
 
 Challenges
 ----------
-* [News Site IV](https://github.com/indiaplatoon/news-site-IV)
+* [News Site IV](https://github.com/codeplatoon/news-site-IV)

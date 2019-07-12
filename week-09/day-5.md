@@ -5,4 +5,4 @@ Day 5
 
 Challenges
 -----------
-* [News Site VI](https://github.com/indiaplatoon/news-site-VI)
+* [News Site VI](https://github.com/codeplatoon/news-site-VI)

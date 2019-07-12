@@ -5,4 +5,4 @@ Day 1
 
 Challenges
 ----------
-* [News Site II](https://github.com/indiaplatoon/news-site-ii)
+* [News Site II](https://github.com/codeplatoon/news-site-ii)
